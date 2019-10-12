@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+a:\visual dumps\c++ ooп\c++ ooп\consoleapplication1\consoleapplication1.cpp(75): warning C4129: F: неизвестная escape-последовательность
+a:\visual dumps\c++ ooп\c++ ooп\consoleapplication1\consoleapplication1.cpp(76): warning C4129: F: неизвестная escape-последовательность
+a:\visual dumps\c++ ooп\c++ ooп\consoleapplication1\consoleapplication1.cpp(92): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> A:\visual dumps\C++ OOП\C++ OOП\x64\Debug\Задача.exe

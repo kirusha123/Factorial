@@ -1,0 +1,4 @@
+﻿  Solution of Eq.cpp
+a:\visual dumps\c++ ooп\c++ ooп\solution of eq\solution of eq.cpp(9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+a:\visual dumps\c++ ooп\c++ ooп\solution of eq\solution of eq.cpp(9): warning C4183: Teq0: отсутствие возвращаемого типа; предполагается функция-член, возвращающая "int"
+a:\visual dumps\c++ ooп\c++ ooп\solution of eq\solution of eq.cpp(87): warning C4244: =: преобразование "double" в "float", возможна потеря данных
